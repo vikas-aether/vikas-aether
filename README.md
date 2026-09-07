@@ -65,10 +65,10 @@ Artificial Intelligence, Computer Vision, Automation, and Python.
 . Think long term
 . Improve continuously
 
-## Connect
+## Connect with me 
 
-. GitHub
-. LinkedIn
+. **GitHub:** You're already here
+. LinkedIn = [linkedin.com/in/vikaszenith](https://www.linkedin.com/in/vikaszenith)
 
 ---------
 
