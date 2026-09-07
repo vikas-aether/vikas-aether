@@ -27,6 +27,10 @@ Artificial Intelligence, Computer Vision, Automation, and Python.
 
 . Python
 . Scikit-Learn
+. matplotlib
+. Seaborn
+. Pandas
+. Numpy
 . Streamlit
 . Git
 . GitHub
@@ -63,5 +67,7 @@ Artificial Intelligence, Computer Vision, Automation, and Python.
 
 . GitHub
 . LinkedIn
+
+---------
 
 Building today. Learning every day. Improving continuously.
