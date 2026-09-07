@@ -19,7 +19,8 @@ Artificial Intelligence, Computer Vision, Automation, and Python.
 . Python Development
 . Artificial Intelligence
 . Machine Learning
-. Computer Vision
+. Computer Vision(CNN)
+. Natural Language Program(NLP)
 . AI Application Development
 . Problem Solving
 
@@ -31,6 +32,7 @@ Artificial Intelligence, Computer Vision, Automation, and Python.
 . Seaborn
 . Pandas
 . Numpy
+. SQL
 . Streamlit
 . Git
 . GitHub
