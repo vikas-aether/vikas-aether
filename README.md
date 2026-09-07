@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Vikas
 
-<!--
-**vikas-aether/vikas-aether** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer | Python Developer | Computer Vision
 
-Here are some ideas to get you started:
+I design and build intelligent software systems with a focus on
+Artificial Intelligence, Computer Vision, Automation, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile
+
+. AI-focused developer building practical software solutions
+. Strong interest in Artificial Intelligence and intelligent systems
+. Developing applications with Python and modern AI technologies
+. Exploring Computer Vision, Machine Learning, and automation
+. Focused on writing clean, maintainable, and scalable code
+. Learning through continuous development and real-world projects
+
+## Core Skills
+
+. Python Development
+. Artificial Intelligence
+. Machine Learning
+. Computer Vision
+. AI Application Development
+. Problem Solving
+
+## Technology Stack
+
+. Python
+. Scikit-Learn
+. Streamlit
+. Git
+. GitHub
+
+## Areas of Interest
+
+. Artificial Intelligence
+. Machine Learning
+. Computer Vision
+. Deep Learning
+. Intelligent Automation
+. AI Assistants
+. Developer Tools
+. Intelligent Software Systems
+
+## Current Focus
+
+. Building AI-powered applications
+. Developing intelligent automation systems
+. Exploring advanced Computer Vision
+. Improving Machine Learning knowledge
+. Designing practical AI solutions
+
+## Engineering Principles
+
+. Build with purpose
+. Keep learning
+. Solve real problems
+. Write clean code
+. Think long term
+. Improve continuously
+
+## Connect
+
+. GitHub
+. LinkedIn
+
+Building today. Learning every day. Improving continuously.
