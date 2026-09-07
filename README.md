@@ -67,7 +67,7 @@ Artificial Intelligence, Computer Vision, Automation, and Python.
 
 ## Connect with me 
 
-. **GitHub:** You're already here
+. **GitHub:** You're already here<br>
 . LinkedIn = [linkedin.com/in/vikaszenith](https://www.linkedin.com/in/vikaszenith)
 
 ---------
