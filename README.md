@@ -7,7 +7,7 @@ Artificial Intelligence, Computer Vision, Automation, and Python.
 
 ## Profile
 
-. AI-focused developer building practical software solutions
+  AI-focused developer building practical software solutions
 . Strong interest in Artificial Intelligence and intelligent systems
 . Developing applications with Python and modern AI technologies
 . Exploring Computer Vision, Machine Learning, and automation
