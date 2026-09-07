@@ -1,4 +1,4 @@
-# Hi, I'm Vikas Kumar
+# Hi, I'm Vikas
 
 AI Developer | Python Developer | Computer Vision
 
